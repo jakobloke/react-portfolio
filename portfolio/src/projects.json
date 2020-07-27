@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Budget-Tracker",
+        "image": "https://drive.google.com/file/d/1TaeR4v8c2LouELp4O4m42by_A__1c4zs/view?usp=sharing",
+        "github": "https://github.com/jakobloke/budget-tracker",
+        "deployedapp": "https://calm-sea-10832.herokuapp.com/",
+        "description": "Budget Tracker"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "https://drive.google.com/file/d/1hOD0QJmQecGY_78LiA5qKkev4v7aNW2E/view?usp=sharing",
+        "github": "https://github.com/jakobloke/note-taker",
+        "deployedapp": "https://enigmatic-coast-80717.herokuapp.com/",
+        "description": "Note Taker"
+    },
+    {
+        "id": 3,
+        "name": "Tech Blog",
+        "image": "https://drive.google.com/file/d/1PjyuW9i-JUdGDcNSEKzE5etkvNtqrFOw/view?usp=sharing",
+        "github": "https://github.com/jakobloke/tech-blog",
+        "deployedapp": "https://shrouded-tundra-19497.herokuapp.com/",
+        "description": "Tech Blog"
+    }
+]
